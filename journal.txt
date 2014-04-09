@@ -2,7 +2,7 @@ Title: Title of paper.
 Author: Charlotte Nellist
 
 Introduction:
-Data: The data will be collected in the future.
+Data: The data will be collected in the now.
 
 Conclusion: The end.
 
