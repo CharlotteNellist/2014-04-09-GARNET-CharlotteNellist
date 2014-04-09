@@ -1,9 +1,9 @@
-Title:
+Title: The title.
 Author: Charlotte Nellist
 
 Introduction:
 Data: The data will be collected in the future.
 
-Conclusion:
+Conclusion:Conclusions.
 
 References:
